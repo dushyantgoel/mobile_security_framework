@@ -1,0 +1,2 @@
+../../../uploads/
+ls > input.txt
